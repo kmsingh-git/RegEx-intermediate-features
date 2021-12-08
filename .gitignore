@@ -130,3 +130,7 @@ dmypy.json
 
 # Virtual Environments
 regex_venv
+
+*.docx
+
+~WRL1130.tmp
